@@ -1,0 +1,7 @@
+﻿  sample.cpp
+y:\cs491\samplefreeglut2017\sample.cpp(976): warning C4305: '*=': truncation from 'double' to 'float'
+y:\cs491\samplefreeglut2017\sample.cpp(977): warning C4305: '*=': truncation from 'double' to 'float'
+y:\cs491\samplefreeglut2017\sample.cpp(978): warning C4305: '*=': truncation from 'double' to 'float'
+y:\cs491\samplefreeglut2017\sample.cpp(985): error C2059: syntax error: '?'
+y:\cs491\samplefreeglut2017\sample.cpp(986): error C2059: syntax error: '?'
+y:\cs491\samplefreeglut2017\sample.cpp(987): error C2059: syntax error: '?'
